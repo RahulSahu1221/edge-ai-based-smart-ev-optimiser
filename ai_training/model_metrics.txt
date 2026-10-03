@@ -1,0 +1,7 @@
+EV Charging Optimizer Model Metrics
+===================================
+
+Dataset rows: 8000
+Arrival accuracy: 0.8888
+Duration R2: 0.6421
+Duration MAE: 13.9853 minutes

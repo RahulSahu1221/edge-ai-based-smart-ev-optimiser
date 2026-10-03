@@ -181,7 +181,7 @@ thresholds).
 The complete technical report — requirements, architecture, mathematical model, testing, and
 results — is in `EV_Charging_Optimizer_Project_Documentation.docx`.
 
-## Team
+## Member
 
-Rahul Sahu · Dipendra Teli · Aditya Kumar · Neha Yadav
+Rahul Sahu
 Internship Project — Emertxe IoT Internship 2026

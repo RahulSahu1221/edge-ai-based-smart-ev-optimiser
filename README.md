@@ -1,6 +1,6 @@
 <div align="center">
 
-# Edge AI Based Smart EV Charging Optimizer
+# Edge AI Based Smart EV Charging Station Optimizer
 
 *Intelligent, On-Device Charging Control for a Multi-Bay EV Station.*
 
